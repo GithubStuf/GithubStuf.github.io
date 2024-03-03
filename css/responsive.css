@@ -32,6 +32,9 @@
     body{
         font-size: 15px;
     }
+    .section-title h2{
+    font-size: 35px;
+    }
 }
 @media (max-width:991px){
     .main-container{
@@ -56,6 +59,9 @@
     body{
         font-size: 14px;
     }
+    .section-title h2{
+    font-size: 33px;
+    }
 }
 
 @media (max-width:767px){
@@ -79,5 +85,8 @@
     }
     body{
         font-size: 13px;
+    }
+    .section-title h2{
+    font-size: 30px;
     }
 }
