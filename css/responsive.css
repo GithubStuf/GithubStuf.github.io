@@ -29,6 +29,9 @@
     .home-info p{
         font-size: 27px;
     }
+    body{
+        font-size: 15px;
+    }
 }
 @media (max-width:991px){
     .main-container{
@@ -47,10 +50,14 @@
     .home .home-img{
         display: none;
     }
-}
-.home-info p{
+    .home-info p{
         font-size: 25px;
     }
+    body{
+        font-size: 14px;
+    }
+}
+
 @media (max-width:767px){
     .main-container{
         padding-left: 0;
@@ -69,5 +76,8 @@
     }
     .home-info p{
         font-size: 20px;
+    }
+    body{
+        font-size: 13px;
     }
 }
